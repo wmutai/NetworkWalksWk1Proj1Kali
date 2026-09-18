@@ -93,7 +93,7 @@ Installed as the hypervisor for the lab.
 Configuration:
 ```
 Network Name: NatNetwork
-IPv4 Prefix:  10.0.0.0/24
+IPv4 Prefix:  10.0.0.2/24
 DHCP:         Enabled
 IPv6:         Disabled
 ```
@@ -134,6 +134,8 @@ DNS:          8.8.8.8
 ## Step 6. Create a Clean VM Snapshot
 
 Example snapshot name:
+#SCREENSHOTS
+
 ```
 Clean Kali - Network Setup
 ```
@@ -223,10 +225,10 @@ This lab is intended strictly for educational purposes.
 
 # 👤 Author
 
-**Your Name**
-*Your role / program / cohort*
+**  Willy Mutai
+*Intern/ Network Walks/ B083C
 
-LinkedIn: *your link*
+LinkedIn: www.linkedin.com/in/kiprono-mutai
 
 ---
 
